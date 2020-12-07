@@ -32,7 +32,7 @@
       ]}
     }],
     ["@semantic-release/gitlab", {
-      "gitlabUrl": "https://git.stefanini.io"
+      "gitlabUrl": "https://gitlab.com.br"
     }],
     ["@semantic-release/changelog", {
       "changelogFile": "CHANGELOG.md",
