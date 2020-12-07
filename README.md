@@ -1,7 +1,7 @@
 # Logs no Kubernetes: Fluentd x Logstash
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3d/cf/c4/3dcfc44bea97a8faec534c73744842bc.gif"/>
+  <img src="https://pa1.narvii.com/6593/8548eff0eae32040f9fe90e76f336a4bb2c606fb_hq.gif"/>
 </p>
 
 ## Visão Geral
